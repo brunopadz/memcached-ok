@@ -14,7 +14,7 @@ The following ENV VARs must be exported:
 
 ### Example
 
-```shell
+```console
 $ MEMCACHED_SERVER=localhost:11211 MEMCACHED_USERNAME=foo MEMCACHED_PASSWORD=bar memcached-ok
 
 Connection to memcached is ok, memcached version: 1.6.14 
